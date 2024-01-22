@@ -31,7 +31,8 @@ Mes projets récents 📌
 
 **Détection de maladies pulmonaires par deep learning à partir de radiographies du thorax** : [Voir sur Streamlit](https://octbdspulmoscan-v9ccdj4bdtzktedwkx7d3u.streamlit.app/)
 - Projet fil rouge réalisé en équipe dans le cadre de la formation Data Scientist
-- Techniques mises en oeuvre : Réseaux de neurones convolutionnels (Python/OpenCV/Tensorflow/Keras), transfer learning, interprétabilité Grad-CAM
+- Techniques mises en oeuvre : Réseaux de neurones convolutionnels, transfer learning, interprétabilité Grad-CAM
+- Outils : Python, Kaggle, Colab, OpenCV, Keras, Tensorflow; Github, Streamlit
 
 
 <table border="0" style="margin: 0 auto;">
@@ -46,18 +47,18 @@ Mes projets récents 📌
 </table>
 
 
-**Elaboration du Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône** 
- - Analyse de données socio-démographiques (INSEE, CAF, DREES, CD13) dans le cadre de la réalisation d'une mission de conseil au sein du cabinet Néorizons
- - [Voir le rapport complet sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
+**Elaboration du Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône**  - [Voir sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
+ - Analyse de données socio-démographiques (INSEE, CAF, DREES, CD13) et cartographie dans le cadre de la réalisation d'une mission de conseil au sein du cabinet Néorizons
+ - Outils : Excel, Access, QGIS, Powerpoint, Word
 
 
 <table border="0" style="margin: 0 auto;">
   <tr>
     <td align="center">
-           <img src="schema13.PNG" alt="page_schéma" width="auto" height="200">
+           <img src="schema13.PNG" alt="page_schéma" width="auto" height="300">
     </td>
     <td align="center">
-           <img src="carto2.PNG" alt="cartographie2" width="auto" height="200">
+           <img src="carto2.PNG" alt="cartographie2" width="auto" height="300">
     </td>
   </tr>
 </table>
