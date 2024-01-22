@@ -29,7 +29,7 @@ Stack technique 💻
 Mes projets récents 📌
 ------------
 
-**Détection de maladies pulmonaires par deep learning à partir de radiographies du thorax** : [Voir sur Streamlit](https://octbdspulmoscan-v9ccdj4bdtzktedwkx7d3u.streamlit.app/)
+#### **Détection de maladies pulmonaires par deep learning à partir de radiographies du thorax** - [Voir sur Streamlit](https://octbdspulmoscan-v9ccdj4bdtzktedwkx7d3u.streamlit.app/)
 - Projet fil rouge réalisé en équipe dans le cadre de la formation Data Scientist
 - Techniques mises en oeuvre : Réseaux de neurones convolutionnels, transfer learning, interprétabilité Grad-CAM
 - Outils : Python, Kaggle, Colab, OpenCV, Keras, Tensorflow; Github, Streamlit
@@ -49,8 +49,8 @@ Mes projets récents 📌
 
 
 
-**Elaboration du Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône**  - [Voir sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
- - Analyse de données socio-démographiques (INSEE, CAF, DREES, CD13) et cartographie dans le cadre de la réalisation d'une mission de conseil au sein du cabinet Néorizons
+#### **Elaboration du Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône** - [Voir sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
+ - Analyse de données socio-démographiques (INSEE, CAF, DREES, CD13) et cartographie dans le cadre de la réalisation d'une mission de conseil au sein du cabinet [Néorizons](https://www.linkedin.com/company/n%C3%A9orizons/)
  - Outils : Excel, Access, QGIS, Powerpoint, Word
 
 
