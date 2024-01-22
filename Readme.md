@@ -14,9 +14,9 @@ Mon profil en bref 👋
 
 Formation 🌱
 ------------
-- Certification Data Scientist (Datascientest 2023)
+- Certification **Data Scientist** (Datascientest 2023)
 - Certification Lean Six Sigma "green belt" (Centrale Paris 2014)
-- Ingénieur des Mines de Nancy (Ecole Nationale Supérieure des Mines de Nancy 2011)
+- **Ingénieur des Mines de Nancy** (Ecole Nationale Supérieure des Mines de Nancy 2011)
 
 Stack technique 💻 
 ------------
@@ -35,9 +35,11 @@ Mes projets récents 📌
 
 
 
-- **Analyse de données socio-démographiques dans le cadre de l'élaboration du Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône** [Voir le rapport complet sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
+- Analyse de données socio-démographiques dans le cadre de l'élaboration du **Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône** [Voir le rapport complet sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
 
-![illustration](carto.PNG)
+<img src="schema13.PNG" alt="page_schéma" width="auto" height="200">
+<img src="carto.PNG" alt="cartographie1" width="auto" height="200">
+<img src="carto2.PNG" alt="cartographie2" width="auto" height="200">
 
 💬 Contact : thib<!-- commentaire -->aut.ga<!-- commentaire -->zagnes<!-- commentaire -->@<!-- commentaire -->gmail.com
 
