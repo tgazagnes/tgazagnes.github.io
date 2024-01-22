@@ -47,7 +47,7 @@ Mes projets récents 📌
 </table>
 
 
-
+  
 
 #### **Elaboration du Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône** - [Voir sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
  - Analyse de données socio-démographiques (INSEE, CAF, DREES, CD13) et cartographie dans le cadre de la réalisation d'une mission de conseil au sein du cabinet [Néorizons](https://www.linkedin.com/company/n%C3%A9orizons/)
