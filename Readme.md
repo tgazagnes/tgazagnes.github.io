@@ -33,13 +33,33 @@ Mes projets récents 📌
   • Projet fil rouge réalisé en équipe dans le cadre de la formation Data Scientist 
   • Techniques mises en oeuvre : Réseaux de neurones convolutionnels (Python/OpenCV/Tensorflow/Keras), transfer learning, interprétabilité Grad-CAM
 
-
+                   <div class="row">
+                    <div class="column">
+                             <img src="pulmoscan.PNG" alt="page_schéma" width="auto" height="200">
+                  
+                    </div>
+                    <div class="column">
+                             <img src="pulmoscan2.PNG" alt="cartographie1" width="auto" height="200">
+                  
+  
+                  </div> 
 
 - Analyse de données socio-démographiques dans le cadre de l'élaboration du **Schéma départemental en faveur de l'enfance et de la famille des Bouches-du-Rhône** [Voir le rapport complet sur le site du Département](https://www.departement13.fr/fileadmin/user_upload/ConseilGeneral/SchemaDepartementaux/Document/schema_enfance_et_famille-062023.pdf)
 
-<img src="schema13.PNG" alt="page_schéma" width="auto" height="200">
-<img src="carto.PNG" alt="cartographie1" width="auto" height="200">
-<img src="carto2.PNG" alt="cartographie2" width="auto" height="200">
+                   <div class="row">
+                    <div class="column">
+                             <img src="schema13.PNG" alt="page_schéma" width="auto" height="200">
+                  
+                    </div>
+                    <div class="column">
+                             <img src="carto.PNG" alt="cartographie1" width="auto" height="200">
+                  
+                    </div>
+                    <div class="column">
+                             <img src="carto2.PNG" alt="cartographie2" width="auto" height="200">
+                  
+                    </div>
+                  </div> 
 
 💬 Contact : thib<!-- commentaire -->aut.ga<!-- commentaire -->zagnes<!-- commentaire -->@<!-- commentaire -->gmail.com
 
