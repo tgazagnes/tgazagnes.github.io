@@ -1,20 +1,15 @@
 Thibaut Gazagnes, Ingénieur Data Scientist
 ==========================================
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="thibautgazagnes" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/thibautgazagnes/en?trk=profile-badge">Thibaut Gazagnes</a></div>
-              
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thibautgazagnes/) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgazagnes/)
+         
               
 💫 En bref :
 ------------
 
-Ingénieur des Mines avec 11 ans d'expérience dans la transformation des organisations, j'ai entrepris de devenir Data Scientist en suivant une formation certifiante de 400h à temps plein avec un organisme leader en France. Je souhaite contribuer à mettre la science des données au profit de l'humain et de la planète.
-
-🌐 Contact :
-------------
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thibautgazagnes/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://linkedin.com/in/thibautgazagnes/)
-
+Ingénieur des Mines avec 11 ans d'expérience dans la transformation des organisations, j'ai entrepris de devenir Data Scientist en suivant une formation certifiante de 400h à temps plein avec un organisme leader en France. 
+Je souhaite contribuer à mettre la science des données au profit de l'humain et de la planète.
 
 💻 Stack technique :
 ------------
@@ -23,5 +18,7 @@ Ingénieur des Mines avec 11 ans d'expérience dans la transformation des organi
 
 💻 Mes projets :
 ------------
+
+
 
 © 2024 Thibaut Gazagnes. Tous droits réservés.
