@@ -4,13 +4,12 @@
 Ingénieur des Mines de Nancy, certifié Data Scientist par [Datascientest.com](https://datascientest.com/formation-data-scientist) et Mines ParisTech à l'issue d'une formation de 400 heures à temps plein.
 Ex-consultant avec 11 ans d'expérience dans l'analyse et l'accompagnement de projets de transformation (30+ acteurs publics et privés en France et en Australie) 
 Je souhaite contribuer aux applications vertueuses de la data et de l'IA. 
-Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thibautgazagnes/)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgazagnes/)
-       
+ 
 
 Formation 🌱
 ------------
 - **Ingénieur des Mines de Nancy** (2008-2011)
--  **Data Scientist** (Datascientest - oct. 2023 - janv 2024)
+-  **Data Scientist** (certification professionnelle par Datascientest - oct. 2023 - janv 2024)
 
 Stack technique 💻 
 ------------
@@ -61,7 +60,7 @@ Réalisations data :abacus:
   </tr>
 </table>
 
-#### **2012 - 2019 : Analyses de données supply-chain et modélisation de processus / Conduite de projets Lean 6 sigma
+#### **2012 - 2019 : Analyses de données supply-chain et modélisation de processus / Conduite de projets Lean 6 sigma**
 - Analyse et visualisation de données de ventes, volumes, stocks, achats, offre produit/merchandising, dans le cadre de la réalisation de missions de conseils chez Argon Consulting puis de mon rôle de chef de projet Lean chez Kmart Australia
 - Développement de tableaux de bord de KPI opérationnels et d'outils VBA (Excel/Access)
 
@@ -72,7 +71,12 @@ Réalisations data :abacus:
     </td>
   </tr>
 </table>
+
+Contact
 ------------
-💬 Contact : thib<!-- commentaire -->aut.ga<!-- commentaire -->zagnes<!-- commentaire -->@<!-- commentaire -->gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thibautgazagnes/)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgazagnes/)
+   
+
+💬  thib<!-- commentaire -->aut.ga<!-- commentaire -->zagnes<!-- commentaire -->@<!-- commentaire -->gmail.com
 
 © 2024 Thibaut Gazagnes. Tous droits réservés.
