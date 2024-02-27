@@ -2,8 +2,8 @@
 ==========================================
   
 Ingénieur des Mines de Nancy, certifié Data Scientist par [Datascientest.com](https://datascientest.com/formation-data-scientist) et Mines ParisTech à l'issue d'une formation de 400 heures à temps plein.
-Ex-consultant avec 11 ans d'expérience dans l'analyse et l'accompagnement de projets de transformation (30+ acteurs publics et privés en France et en Australie) 
-Je souhaite contribuer aux applications vertueuses de la data et de l'IA. 
+Ex-consultant avec 11 ans d'expérience dans l'analyse et l'accompagnement de projets de transformation (30+ acteurs publics et privés en France et en Australie). 
+Je souhaite désormais contribuer aux applications vertueuses de la data et de l'IA. 
  
 
 Formation 🌱
@@ -23,10 +23,10 @@ Stack technique 💻
 ![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) 
 
-Réalisations data :abacus:
+Réalisations data 🧮
 ------------
 
-#### **2023 : Détection de maladies pulmonaires par deep learning à partir de radiographies du thorax** - [Voir sur Streamlit](https://octbdspulmoscan-v9ccdj4bdtzktedwkx7d3u.streamlit.app/)
+#### **2023-2024 : Détection de maladies pulmonaires par deep learning à partir de radiographies du thorax** - [Voir sur Streamlit](https://octbdspulmoscan-v9ccdj4bdtzktedwkx7d3u.streamlit.app/)
 - Projet fil rouge réalisé en équipe dans le cadre de la formation Data Scientist (Datascientest.com)
 - Techniques et outils mis en oeuvre : Réseaux de neurones convolutionnels, transfer learning, interprétabilité Grad-CAM / Python, Kaggle, Colab, OpenCV, Keras, Tensorflow, Github, Streamlit
 
@@ -45,7 +45,7 @@ Réalisations data :abacus:
 
   
 
-#### **2020 - 2023 : Pilotage et réalisation de diagnostics des besoins et de l'offre de prise en charge sociale et médico-sociale**
+#### **2020-2023 : Pilotage et réalisation de diagnostics des besoins et de l'offre de prise en charge sociale et médico-sociale**
 - Analyses et cartographies de données socio-démographiques (INSEE, CAF, DREES) et de données sur l'offre d'accueil et d'accompagnement dans les champs de la **protection de l'enfance**, de la **prévention de la perte d'autonomie** et de la prise en charge des **personnes âgées et personnes en situation de handicap**, dans le cadre de missions réalisées au sein du cabinet [Néorizons](https://www.linkedin.com/company/n%C3%A9orizons/)
 
 <table border="0" style="margin: 0 auto;">
@@ -67,7 +67,7 @@ Réalisations data :abacus:
 <table border="0" style="margin: 0 auto;">
   <tr>
     <td align="center">
-           <img src="Diapositive4.PNG" alt="illustrations_4" width="auto" height="250">
+           <img src="Diapositive4.PNG" alt="illustrations_4" width="auto" height="300">
     </td>
   </tr>
 </table>
