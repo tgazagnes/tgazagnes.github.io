@@ -1,9 +1,10 @@
 👋 Thibaut Gazagnes, Ingénieur Data Scientist
 ==========================================
   
-Ingénieur des Mines de Nancy, certifié Data Scientist par [Datascientest.com](https://datascientest.com/formation-data-scientist) et Mines ParisTech à l'issue d'une formation de heures à temps plein.
+Ingénieur des Mines de Nancy, certifié Data Scientist par [Datascientest.com](https://datascientest.com/formation-data-scientist) et Mines ParisTech à l'issue d'une formation de 400 heures à temps plein.
 Ex-consultant avec 11 ans d'expérience dans l'analyse et l'accompagnement de projets de transformation (30+ acteurs publics et privés en France et en Australie) 
-Je souhaite contribuer aux applications vertueuses de la data et de l'IA. Retrouvez mon profil sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thibautgazagnes/) et [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgazagnes/)
+Je souhaite contribuer aux applications vertueuses de la data et de l'IA. 
+Retrouvez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thibautgazagnes/)[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tgazagnes/)
        
 
 Formation 🌱
@@ -45,26 +46,24 @@ Réalisations data :abacus:
 
   
 
-#### **2020 - 2023 : Pilotage et réalisation de diagnostics des besoins et de l'offre de prise en charge sociale et médico-sociale dans le cadre de Schémas départementaux
+#### **2020 - 2023 : Pilotage et réalisation de diagnostics des besoins et de l'offre de prise en charge sociale et médico-sociale**
 - Analyses et cartographies de données socio-démographiques (INSEE, CAF, DREES) et de données sur l'offre d'accueil et d'accompagnement dans les champs de la **protection de l'enfance**, de la **prévention de la perte d'autonomie** et de la prise en charge des **personnes âgées et personnes en situation de handicap**, dans le cadre de missions réalisées au sein du cabinet [Néorizons](https://www.linkedin.com/company/n%C3%A9orizons/)
 
 <table border="0" style="margin: 0 auto;">
   <tr>
     <td align="center">
-           <img src="Diapositive1.PNG" alt="illustrations_1" width="auto" height="250">
+           <img src="Diapositive1.PNG" alt="illustrations_1" width="auto" height="300">
     </td>
     <td align="center">
-           <img src="Diapositive2.PNG" alt="illustrations_2" width="auto" height="250">
+           <img src="Diapositive2.PNG" alt="illustrations_2" width="auto" height="300">
     </td>
-    <td align="center">
-            <img src="Diapositive3.PNG" alt="illustrations_3" width="auto" height="250">
-    </td>
+
   </tr>
 </table>
 
 #### **2012 - 2019 : Analyses de données supply-chain et modélisation de processus / Conduite de projets Lean 6 sigma
-- Analyse et visualisation de données de ventes, volumes, stocks, achats, offre produit/merchandising, dans le cadre de la réalisation de missions de conseils ou de mon rôle de chef de projet Lean chez Kmart Australia
-- Développement de tableaux de bord de KPI opérationnels et d'outils VBA (Excel.Access)
+- Analyse et visualisation de données de ventes, volumes, stocks, achats, offre produit/merchandising, dans le cadre de la réalisation de missions de conseils chez Argon Consulting puis de mon rôle de chef de projet Lean chez Kmart Australia
+- Développement de tableaux de bord de KPI opérationnels et d'outils VBA (Excel/Access)
 
 <table border="0" style="margin: 0 auto;">
   <tr>
