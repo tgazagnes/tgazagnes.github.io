@@ -78,5 +78,6 @@ Contact
    
 
 💬  thib<!-- commentaire -->aut.ga<!-- commentaire -->zagnes<!-- commentaire -->@<!-- commentaire -->gmail.com
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 © 2024 Thibaut Gazagnes. Tous droits réservés.
